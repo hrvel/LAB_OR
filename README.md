@@ -59,5 +59,8 @@ Oba zapisa podataka su jednostavna za implementaciju. <br />
 <hr style="border:2px solid grey">
  <h4> Pristupačnost podataka <h4> 
 Omogućio sam da podaci budu pristupačni tako što sam napravio automatiziran ispis u CSV i JSON formate
-te tako što sam priložio dump baze. Tako svatko ko pristupi ovim podacima može ih mijenati u vlastitom radnom okruženju.
+te tako što sam priložio dump baze. Tako svatko ko pristupi ovim podacima može ih mijenati u vlastitom radnom okruženju. <br />
 
+<hr style="border:2px solid grey">
+Autor, Verzija, Jezik, Licenca <br />
+Hrvoje Elez, 1.0, Hrvatski, GPL
